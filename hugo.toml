@@ -135,11 +135,11 @@ enableEmoji = true
   [params.search]
     enable = true
     # type of search engine ["lunr", "algolia"]
-    type = "lunr"
+    type = "algolia"
     # max index length of the chunked content
     contentLength = 4000
     # placeholder of the search bar
-    placeholder = "type to search"
+    placeholder = "java"
     # max number of results length
     maxResultLength = 10
     # snippet length of the result
@@ -149,9 +149,9 @@ enableEmoji = true
     # whether to use the absolute URL based on the baseURL in search index
     absoluteURL = false
     [params.search.algolia]
-      index = ""
-      appID = ""
-      searchKey = ""
+      index = "myBlog"
+      appID = "TFJJ4GSEH5"
+      searchKey = "f2e1cd678d28265b854eee6d55bd65bb"
 
   # Home page config
   [params.home]
