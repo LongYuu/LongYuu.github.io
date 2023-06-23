@@ -1,7 +1,7 @@
 ---
 title: "Bio"
 date: 2023-06-20T11:15:06+09:00
-draft: true
+draft: false
 ---
 
 # Objective
