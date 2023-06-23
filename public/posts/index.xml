@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - </title>
+        <link>http://example.org/posts/</link>
+        <description>All Posts | </description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>longyu188@outlook.com (Yu Long)</managingEditor>
+            <webMaster>longyu188@outlook.com (Yu Long)</webMaster><lastBuildDate>Tue, 13 Jun 2023 15:11:54 &#43;0900</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>My First Post</title>
+    <link>http://example.org/posts/my-first-post/</link>
+    <pubDate>Tue, 13 Jun 2023 15:11:54 &#43;0900</pubDate>
+    <author>Yu Long</author>
+    <guid>http://example.org/posts/my-first-post/</guid>
+    <description><![CDATA[Introduction This is blod text, and this is emphasized text.
+Visit the Hugo website!]]></description>
+</item>
+</channel>
+</rss>
