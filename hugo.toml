@@ -338,9 +338,9 @@ enableEmoji = true
         enable = false
       # utterances comment config
       [params.page.comment.utterances]
-        enable = false
+        enable = true
         # owner/repo
-        repo = ""
+        repo = "LongYuu/LongYuu.github.io"
         issueTerm = "pathname"
         label = ""
         lightTheme = "github-light"
