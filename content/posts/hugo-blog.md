@@ -1,13 +1,13 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "Hugo Blog"
 subtitle: ""
-date: {{ .Date }}
+date: 2023-06-27T00:42:44+09:00
 draft: true
 author: Yu Long
-categories: [""]
-tags: [""]
+categories: ["Blog"]
+tags: ["go"]
 featuredImage: ""
-featuredImagePreview: ""
+featuredImagePreview: "/images/hugo.png"
 hiddenFromHomePage: false
 hiddenFromSearch: false
 ---
