@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>mysql - Tag - </title>
+        <link>http://example.org/tags/mysql/</link>
+        <description>mysql - Tag - </description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>longyu188@outlook.com (Yu Long)</managingEditor>
+            <webMaster>longyu188@outlook.com (Yu Long)</webMaster><lastBuildDate>Fri, 23 Jun 2023 12:13:57 &#43;0900</lastBuildDate><atom:link href="http://example.org/tags/mysql/" rel="self" type="application/rss+xml" /><item>
+    <title>Setup Guide</title>
+    <link>http://example.org/posts/setup-guide/</link>
+    <pubDate>Fri, 23 Jun 2023 12:13:57 &#43;0900</pubDate>
+    <author>Yu Long</author>
+    <guid>http://example.org/posts/setup-guide/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/advanced.gif" referrerpolicy="no-referrer">
+            </div><p>Setting up the coding environing is always a obstacle for beginners to start to learn. Hope this post will help you step into the coding world and enjoy it!</p>]]></description>
+</item>
+</channel>
+</rss>

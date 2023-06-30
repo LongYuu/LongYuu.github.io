@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Blog - Category - </title>
+        <link>http://example.org/categories/blog/</link>
+        <description>Blog - Category - </description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>longyu188@outlook.com (Yu Long)</managingEditor>
+            <webMaster>longyu188@outlook.com (Yu Long)</webMaster><lastBuildDate>Tue, 27 Jun 2023 00:42:44 &#43;0900</lastBuildDate><atom:link href="http://example.org/categories/blog/" rel="self" type="application/rss+xml" /><item>
+    <title>Hugo Blog</title>
+    <link>http://example.org/posts/hugo-blog/</link>
+    <pubDate>Tue, 27 Jun 2023 00:42:44 &#43;0900</pubDate>
+    <author>Yu Long</author>
+    <guid>http://example.org/posts/hugo-blog/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/blogging.png" referrerpolicy="no-referrer">
+            </div><p><a href="https://gohugo.io/" target="_blank" rel="noopener noreffer ">Hugo</a> is a Static Site Generator(SSG) based on Go, and it support to convert Markdown to HTML. It&rsquo;s easy to use, and simple enough to build your own website.</p>]]></description>
+</item>
+</channel>
+</rss>
