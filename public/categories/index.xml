@@ -4,5 +4,21 @@
         <link>http://example.org/categories/</link>
         <description>Categories - Category - </description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>longyu188@outlook.com (Yu Long)</managingEditor>
-            <webMaster>longyu188@outlook.com (Yu Long)</webMaster><atom:link href="http://example.org/categories/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>longyu188@outlook.com (Yu Long)</webMaster><lastBuildDate>Tue, 27 Jun 2023 00:42:44 &#43;0900</lastBuildDate><atom:link href="http://example.org/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Blog</title>
+    <link>http://example.org/categories/blog/</link>
+    <pubDate>Tue, 27 Jun 2023 00:42:44 &#43;0900</pubDate>
+    <author>Yu Long</author>
+    <guid>http://example.org/categories/blog/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>setup</title>
+    <link>http://example.org/categories/setup/</link>
+    <pubDate>Fri, 23 Jun 2023 12:13:57 &#43;0900</pubDate>
+    <author>Yu Long</author>
+    <guid>http://example.org/categories/setup/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
