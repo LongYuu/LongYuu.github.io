@@ -290,9 +290,10 @@ Upload this `index.json` to the index you created for specific application,
 {{<image src="/images/algolia_1.png" caption="Create new index" title="" class="" src_s="" src_l="" height="" width="" linked="" rel="">}}
 {{<image src="/images/algolia_02.png" caption="Upload json file" title="" class="" src_s="" src_l="" height="" width="" linked="" rel="">}}
 
-## 6 Comments {#comments}
+## 6 Comments
 LoveIt support multiple comments API, including disqus, gitalk, valine, facebook comment, telegram comments, commento, utterance, giscus. 
 
+### utterances
 If you store your souce code on Github, it's easy to use [utterances](https://utteranc.es/) via Github App. 
 Just add this app into your repository.
 {{<image src="/images/utterance_01.png" caption="uterances app" title="" class="" src_s="" src_l="" height="" width="" linked="" rel="">}}
