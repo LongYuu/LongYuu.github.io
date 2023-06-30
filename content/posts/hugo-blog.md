@@ -293,7 +293,6 @@ Upload this `index.json` to the index you created for specific application,
 ## 6 Comments {#comments}
 LoveIt support multiple comments API, including disqus, gitalk, valine, facebook comment, telegram comments, commento, utterance, giscus. 
 
-### utterances.
 If you store your souce code on Github, it's easy to use [utterances](https://utteranc.es/) via Github App. 
 Just add this app into your repository.
 {{<image src="/images/utterance_01.png" caption="uterances app" title="" class="" src_s="" src_l="" height="" width="" linked="" rel="">}}
