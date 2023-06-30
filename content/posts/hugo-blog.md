@@ -290,6 +290,10 @@ Upload this `index.json` to the index you created for specific application,
 {{<image src="/images/algolia_1.png" caption="Create new index" title="" class="" src_s="" src_l="" height="" width="" linked="" rel="">}}
 {{<image src="/images/algolia_02.png" caption="Upload json file" title="" class="" src_s="" src_l="" height="" width="" linked="" rel="">}}
 
+We also need to configure the searchable content of our content by changing Searchable attributes, 
+{{<image src="/images/algolia_03.png" caption="Create new index" title="" class="" src_s="" src_l="" height="" width="" linked="" rel="">}}
+
+
 ## 6 Comments
 LoveIt support multiple comments API, including disqus, gitalk, valine, facebook comment, telegram comments, commento, utterance, giscus. 
 
