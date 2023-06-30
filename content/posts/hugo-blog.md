@@ -2,7 +2,7 @@
 title: "Hugo Blog"
 subtitle: ""
 date: 2023-06-27T00:42:44+09:00
-draft: ture
+draft: false
 author: Yu Long
 categories: ["Blog"]
 tags: ["go"]
