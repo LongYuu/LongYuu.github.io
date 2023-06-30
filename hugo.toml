@@ -149,9 +149,9 @@ enableEmoji = true
     # whether to use the absolute URL based on the baseURL in search index
     absoluteURL = false
     [params.search.algolia]
-      index = "myBlog"
+      index = "myblog"
       appID = "TFJJ4GSEH5"
-      searchKey = "f2e1cd678d28265b854eee6d55bd65bb"
+      searchKey = "53c0331c46a0b0ecdc5ca033a92e8ad4"
 
   # Home page config
   [params.home]
