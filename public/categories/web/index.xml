@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Web - Category - </title>
+        <link>http://example.org/categories/web/</link>
+        <description>Web - Category - </description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>longyu188@outlook.com (Yu Long)</managingEditor>
+            <webMaster>longyu188@outlook.com (Yu Long)</webMaster><lastBuildDate>Tue, 04 Jul 2023 14:24:25 &#43;0900</lastBuildDate><atom:link href="http://example.org/categories/web/" rel="self" type="application/rss+xml" /><item>
+    <title>Http</title>
+    <link>http://example.org/posts/http/</link>
+    <pubDate>Tue, 04 Jul 2023 14:24:25 &#43;0900</pubDate>
+    <author>Yu Long</author>
+    <guid>http://example.org/posts/http/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

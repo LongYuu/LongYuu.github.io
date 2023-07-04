@@ -2,21 +2,22 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://example.org/</loc><lastmod>2023-06-30T12:56:20&#43;09:00</lastmod></url><url>
-            <loc>http://example.org/categories/blog/</loc><lastmod>2023-06-30T12:56:20&#43;09:00</lastmod></url><url>
-            <loc>http://example.org/categories/</loc><lastmod>2023-06-30T12:56:20&#43;09:00</lastmod></url><url>
-            <loc>http://example.org/tags/go/</loc><lastmod>2023-06-30T12:56:20&#43;09:00</lastmod></url><url>
-            <loc>http://example.org/posts/hugo-blog/</loc><lastmod>2023-06-30T12:56:20&#43;09:00</lastmod></url><url>
-            <loc>http://example.org/posts/</loc><lastmod>2023-06-30T12:56:20&#43;09:00</lastmod></url><url>
-            <loc>http://example.org/tags/</loc><lastmod>2023-06-30T12:56:20&#43;09:00</lastmod></url><url>
-            <loc>http://example.org/tags/git/</loc><lastmod>2023-06-27T16:37:04&#43;09:00</lastmod></url><url>
-            <loc>http://example.org/tags/iterm/</loc><lastmod>2023-06-27T16:37:04&#43;09:00</lastmod></url><url>
-            <loc>http://example.org/tags/java/</loc><lastmod>2023-06-27T16:37:04&#43;09:00</lastmod></url><url>
-            <loc>http://example.org/tags/mysql/</loc><lastmod>2023-06-27T16:37:04&#43;09:00</lastmod></url><url>
-            <loc>http://example.org/tags/node/</loc><lastmod>2023-06-27T16:37:04&#43;09:00</lastmod></url><url>
-            <loc>http://example.org/tags/python/</loc><lastmod>2023-06-27T16:37:04&#43;09:00</lastmod></url><url>
-            <loc>http://example.org/tags/ruby/</loc><lastmod>2023-06-27T16:37:04&#43;09:00</lastmod></url><url>
-            <loc>http://example.org/categories/setup/</loc><lastmod>2023-06-27T16:37:04&#43;09:00</lastmod></url><url>
-            <loc>http://example.org/posts/setup-guide/</loc><lastmod>2023-06-27T16:37:04&#43;09:00</lastmod></url><url>
-            <loc>http://example.org/tags/vscode/</loc><lastmod>2023-06-27T16:37:04&#43;09:00</lastmod></url><url>
-            <loc>http://example.org/bio/</loc><lastmod>2023-06-23T10:50:11&#43;09:00</lastmod></url></urlset>
+            <loc>http://example.org/</loc><lastmod>2023-07-04T14:24:25&#43;09:00</lastmod></url><url>
+            <loc>http://example.org/categories/</loc><lastmod>2023-07-04T14:24:25&#43;09:00</lastmod></url><url>
+            <loc>http://example.org/posts/http/</loc><lastmod>2023-07-04T14:24:25&#43;09:00</lastmod></url><url>
+            <loc>http://example.org/posts/</loc><lastmod>2023-07-04T14:24:25&#43;09:00</lastmod></url><url>
+            <loc>http://example.org/categories/web/</loc><lastmod>2023-07-04T14:24:25&#43;09:00</lastmod></url><url>
+            <loc>http://example.org/categories/blog/</loc><lastmod>2023-07-04T14:23:45&#43;09:00</lastmod></url><url>
+            <loc>http://example.org/tags/go/</loc><lastmod>2023-07-04T14:23:45&#43;09:00</lastmod></url><url>
+            <loc>http://example.org/posts/hugo-blog/</loc><lastmod>2023-07-04T14:23:45&#43;09:00</lastmod></url><url>
+            <loc>http://example.org/tags/</loc><lastmod>2023-07-04T14:23:45&#43;09:00</lastmod></url><url>
+            <loc>http://example.org/tags/git/</loc><lastmod>2023-07-04T14:23:45&#43;09:00</lastmod></url><url>
+            <loc>http://example.org/tags/iterm/</loc><lastmod>2023-07-04T14:23:45&#43;09:00</lastmod></url><url>
+            <loc>http://example.org/tags/java/</loc><lastmod>2023-07-04T14:23:45&#43;09:00</lastmod></url><url>
+            <loc>http://example.org/tags/mysql/</loc><lastmod>2023-07-04T14:23:45&#43;09:00</lastmod></url><url>
+            <loc>http://example.org/tags/node/</loc><lastmod>2023-07-04T14:23:45&#43;09:00</lastmod></url><url>
+            <loc>http://example.org/tags/python/</loc><lastmod>2023-07-04T14:23:45&#43;09:00</lastmod></url><url>
+            <loc>http://example.org/tags/ruby/</loc><lastmod>2023-07-04T14:23:45&#43;09:00</lastmod></url><url>
+            <loc>http://example.org/categories/setup/</loc><lastmod>2023-07-04T14:23:45&#43;09:00</lastmod></url><url>
+            <loc>http://example.org/posts/setup-guide/</loc><lastmod>2023-07-04T14:23:45&#43;09:00</lastmod></url><url>
+            <loc>http://example.org/tags/vscode/</loc><lastmod>2023-07-04T14:23:45&#43;09:00</lastmod></url></urlset>

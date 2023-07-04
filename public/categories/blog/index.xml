@@ -11,7 +11,7 @@
     <author>Yu Long</author>
     <guid>http://example.org/posts/hugo-blog/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/images/blogging.png" referrerpolicy="no-referrer">
+                <img src="/images/hugo_blog/blogging.png" referrerpolicy="no-referrer">
             </div><p><a href="https://gohugo.io/" target="_blank" rel="noopener noreffer ">Hugo</a> is a Static Site Generator(SSG) based on Go, and it support to convert Markdown to HTML. It&rsquo;s easy to use, and simple enough to build your own website.</p>]]></description>
 </item>
 </channel>
