@@ -6,8 +6,8 @@ draft: false
 author: Yu Long
 categories: ["setup"]
 tags: ["git", "vscode", "iterm", "python", "mysql", "java", "ruby", "node", "go"]
-featuredImage: "/images/advanced.gif"
-featuredImagePreview: "/images/Windows-Python-Coding-Setup_Watermarked.webp"
+featuredImage: "/images/setup_guide/advanced.gif"
+featuredImagePreview: "/images/setup_guide/Windows-Python-Coding-Setup_Watermarked.webp"
 hiddenFromHomePage: false
 hiddenFromSearch: false
 ---

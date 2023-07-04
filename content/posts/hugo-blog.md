@@ -6,8 +6,8 @@ draft: false
 author: Yu Long
 categories: ["Blog"]
 tags: ["go"]
-featuredImage: "/images/blogging.png"
-featuredImagePreview: "/images/hugo.png"
+featuredImage: "/images/hugo_blog/blogging.png"
+featuredImagePreview: "/images/hugo_blog/hugo.png"
 hiddenFromHomePage: false
 hiddenFromSearch: false
 ---
@@ -287,11 +287,11 @@ The following config will let hugo generate `index.json` everytime we run `$ hug
   home = ["HTML", "RSS", "JSON"]
 ```
 Upload this `index.json` to the index you created for specific application, 
-{{<image src="/images/algolia_1.png" caption="Create new index" title="" class="" src_s="" src_l="" height="" width="" linked="" rel="">}}
-{{<image src="/images/algolia_02.png" caption="Upload json file" title="" class="" src_s="" src_l="" height="" width="" linked="" rel="">}}
+{{<image src="/images/hugo_blog/algolia_1.png" caption="Create new index" title="" class="" src_s="" src_l="" height="" width="" linked="" rel="">}}
+{{<image src="/images/hugo_blog/algolia_02.png" caption="Upload json file" title="" class="" src_s="" src_l="" height="" width="" linked="" rel="">}}
 
 We also need to configure the searchable content of our content by changing Searchable attributes, 
-{{<image src="/images/algolia_03.png" caption="Create new index" title="" class="" src_s="" src_l="" height="" width="" linked="" rel="">}}
+{{<image src="/images/hugo_blog/algolia_03.png" caption="Create new index" title="" class="" src_s="" src_l="" height="" width="" linked="" rel="">}}
 
 
 ## 6 Comments
@@ -299,7 +299,7 @@ LoveIt support multiple comments API, including disqus, gitalk, valine, facebook
 
 If you store your souce code on Github, it's easy to use [utterances](https://utteranc.es/) via Github App. 
 Just add this app into your repository.
-{{<image src="/images/utterance_01.png" caption="uterances app" title="" class="" src_s="" src_l="" height="" width="" linked="" rel="">}}
+{{<image src="/images/hugo_blog/utterance_01.png" caption="uterances app" title="" class="" src_s="" src_l="" height="" width="" linked="" rel="">}}
 
 ```toml
 # Comment config
@@ -325,7 +325,7 @@ The comment widget only works on **production** environment, by default, the loc
 GitHub provides free and fast static hosting for project pages directly from Github repository, via its GitHub Pages service and automating development workflows and build with GitHub Actions.
 We need to config the settings for GitHub repository to use GitHub Actions workflow for deployment, 
 
-{{<image src="/images/gitpage.png" caption="GitHub Actions for build and deployment" title="" class="" src_s="" src_l="" height="" width="" linked="" rel="">}}
+{{<image src="/images/hugo_blog/gitpage.png" caption="GitHub Actions for build and deployment" title="" class="" src_s="" src_l="" height="" width="" linked="" rel="">}}
 
 A workflow config file `.github/workflows/hugo.yaml` is needed for GitHub Action,
 ```yaml
@@ -410,7 +410,7 @@ jobs:
 ```
 
 By the above setttings, if we push the repository it will trigger the build for the code and deploy on GitHub Pages. 
-{{<image src="/images/githubActions.png" caption="GitHub Actions for build and deployment" title="" class="" src_s="" src_l="" height="" width="" linked="" rel="">}}
+{{<image src="/images/hugo_blog/githubActions.png" caption="GitHub Actions for build and deployment" title="" class="" src_s="" src_l="" height="" width="" linked="" rel="">}}
 
 Try to access the domain `<githubUsername>.github.io` to see your own Blog now!
 
