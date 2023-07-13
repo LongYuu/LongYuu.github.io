@@ -12,7 +12,9 @@
     <pubDate>Tue, 04 Jul 2023 14:24:25 &#43;0900</pubDate>
     <author>Yu Long</author>
     <guid>http://example.org/posts/http/</guid>
-    <description><![CDATA[]]></description>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/http/http-1.png" referrerpolicy="no-referrer">
+            </div><p>HTTP and HTTPS are widely used for deliverying various contents on the web. But do you know some advanced features of them?</p>]]></description>
 </item>
 <item>
     <title>Hugo Blog</title>
